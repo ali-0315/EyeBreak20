@@ -5,7 +5,7 @@ while true; do
     xtrlock &
 
     # نمایش تصویر
-    feh -F -Z /opt/eye_break_20/eye_break_warning.png &
+    feh -F -Z /opt/EyeBreak20/eye_break_warning.png &
     sleep 20
 
     # بستن feh و آزاد کردن کیبورد و موس
